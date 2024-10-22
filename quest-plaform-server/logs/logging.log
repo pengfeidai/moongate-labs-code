@@ -1,0 +1,39 @@
+info: Log: 22-Oct-2024 20:55:38: Server is running on http://localhost:3001
+info: Log: 22-Oct-2024 20:56:35: Server is running on http://localhost:3001
+info: Log: 22-Oct-2024 20:58:36: Server is running on http://localhost:3001
+info: Log: 22-Oct-2024 20:59:20: Server is running on http://localhost:3001
+info: Log: 22-Oct-2024 21:00:26: Server is running on http://localhost:3001
+info: Log: 22-Oct-2024 21:01:47: Server is running on http://localhost:3001
+info: Log: 22-Oct-2024 21:03:17: Server is running on http://localhost:3001
+info: Log: 22-Oct-2024 21:03:44: Server is running on http://localhost:3001
+info: Log: 22-Oct-2024 21:04:38: Server is running on http://localhost:3001
+info: Log: 22-Oct-2024 21:05:00: Server is running on http://localhost:3001
+info: Log: 22-Oct-2024 21:08:41: Server is running on http://localhost:3001
+info: Log: 22-Oct-2024 21:10:29: Server is running on http://localhost:3001
+info: Log: 22-Oct-2024 21:10:49: Server is running on http://localhost:3001
+info: Log: 22-Oct-2024 21:11:43: Server is running on http://localhost:3001
+info: Log: 22-Oct-2024 21:13:44: Server is running on http://localhost:3001
+info: Log: 22-Oct-2024 21:22:05: Server is running on http://localhost:3001
+info: Log: 22-Oct-2024 21:23:29: Server is running on http://localhost:3001
+info: Log: 22-Oct-2024 21:24:52: Server is running on http://localhost:3001
+info: Log: 22-Oct-2024 21:25:49: Server is running on http://localhost:3001
+info: Log: 22-Oct-2024 21:55:04: Server is running on http://localhost:3001
+info: Log: 22-Oct-2024 21:55:54: Server is running on http://localhost:3001
+info: Log: 22-Oct-2024 22:00:00: Server is running on http://localhost:3001
+info: Log: 22-Oct-2024 22:01:36: Server is running on http://localhost:3001
+info: Log: 22-Oct-2024 22:02:07: Server is running on http://localhost:3001
+info: Log: 22-Oct-2024 23:02:42: Server is running on http://localhost:3001
+info: Log: 22-Oct-2024 23:12:40: Server is running on http://localhost:3001
+info: Log: 22-Oct-2024 23:17:31: Server is running on http://localhost:3001
+info: Log: 22-Oct-2024 23:32:43: Server is running on http://localhost:3001
+info: Log: 22-Oct-2024 23:36:40: Server is running on http://localhost:3001
+info: Log: 22-Oct-2024 23:44:31: Server is running on http://localhost:3001
+info: Log: 22-Oct-2024 23:45:30: Server is running on http://localhost:3001
+error: Log: 22-Oct-2024 23:51:51: Error connecting to database: Can't call `openUri()` on an active connection with different connection strings. Make sure you aren't calling `mongoose.connect()` multiple times. See: https://mongoosejs.com/docs/connections.html#multiple_connections
+error: Log: 22-Oct-2024 23:52:44: Error connecting to database: Can't call `openUri()` on an active connection with different connection strings. Make sure you aren't calling `mongoose.connect()` multiple times. See: https://mongoosejs.com/docs/connections.html#multiple_connections
+error: Log: 22-Oct-2024 23:54:22: Error connecting to database: Can't call `openUri()` on an active connection with different connection strings. Make sure you aren't calling `mongoose.connect()` multiple times. See: https://mongoosejs.com/docs/connections.html#multiple_connections
+error: Log: 22-Oct-2024 23:55:37: Error connecting to database: Can't call `openUri()` on an active connection with different connection strings. Make sure you aren't calling `mongoose.connect()` multiple times. See: https://mongoosejs.com/docs/connections.html#multiple_connections
+error: Log: 23-Oct-2024 00:03:11: Error connecting to database: Can't call `openUri()` on an active connection with different connection strings. Make sure you aren't calling `mongoose.connect()` multiple times. See: https://mongoosejs.com/docs/connections.html#multiple_connections
+error: Log: 23-Oct-2024 00:07:41: Error connecting to database: Can't call `openUri()` on an active connection with different connection strings. Make sure you aren't calling `mongoose.connect()` multiple times. See: https://mongoosejs.com/docs/connections.html#multiple_connections
+error: Log: 23-Oct-2024 00:09:15: Error connecting to database: Can't call `openUri()` on an active connection with different connection strings. Make sure you aren't calling `mongoose.connect()` multiple times. See: https://mongoosejs.com/docs/connections.html#multiple_connections
+error: Log: 23-Oct-2024 00:10:30: Error connecting to database: Can't call `openUri()` on an active connection with different connection strings. Make sure you aren't calling `mongoose.connect()` multiple times. See: https://mongoosejs.com/docs/connections.html#multiple_connections

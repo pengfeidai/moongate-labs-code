@@ -1,0 +1,885 @@
+error: Log: 22-Oct-2024 14:45:12: Error connecting to database: ENOENT: no such file or directory, scandir './src/_dbData'
+info: Log: 22-Oct-2024 14:45:50: uri:
+error: Log: 22-Oct-2024 14:47:43: Error connecting to database: ENOENT: no such file or directory, scandir '../src/dbData'
+error: Log: 22-Oct-2024 14:48:08: Error connecting to database: ENOENT: no such file or directory, scandir './src/dbData'
+error: Log: 22-Oct-2024 14:48:25: Error connecting to database: ENOENT: no such file or directory, scandir '../src/dbData'
+info: Log: 22-Oct-2024 14:48:52: uri:
+info: Log: 22-Oct-2024 14:50:45: uri:
+info: Log: 22-Oct-2024 14:54:43: Server is running on http://localhost: 3000
+info: Log: 22-Oct-2024 14:54:45: uri:
+info: Log: 22-Oct-2024 14:55:31: Server is running on http://localhost: 3000
+info: Log: 22-Oct-2024 14:55:32: uri:
+info: Log: 22-Oct-2024 15:24:32: Server is running on http://localhost: 3000
+info: Log: 22-Oct-2024 15:24:35: uri:
+info: Log: 22-Oct-2024 15:26:55: Server is running on http://localhost: 3000
+info: Log: 22-Oct-2024 15:26:57: uri:
+info: Log: 22-Oct-2024 15:27:17: Server is running on http://localhost: 3000
+info: Log: 22-Oct-2024 15:27:19: uri:
+error: Log: 22-Oct-2024 15:27:25: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:27:25: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:27:25: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:27:25: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:27:25: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:27:25: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:27:25: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:27:25: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:27:25: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:27:25: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:27:25: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:27:25: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:27:26: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:27:26: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:27:26: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:27:26: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:27:26: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:27:26: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:27:26: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:27:26: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:27:26: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:27:26: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:27:26: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:27:26: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:27:26: sendTransaction error: sendTransaction error
+info: Log: 22-Oct-2024 15:29:54: Server is running on http://localhost: 3000
+info: Log: 22-Oct-2024 15:29:55: uri:
+info: Log: 22-Oct-2024 15:34:55: Server is running on http://localhost: 3000
+info: Log: 22-Oct-2024 15:35:01: uri:
+info: Log: 22-Oct-2024 15:36:35: Server is running on http://localhost: 3000
+info: Log: 22-Oct-2024 15:36:36: uri:
+error: Log: 22-Oct-2024 15:36:51: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:36:51: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:36:51: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:36:51: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:36:51: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:36:51: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:36:51: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:36:51: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:36:51: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:36:51: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:36:51: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:36:51: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:36:51: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:36:51: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:36:51: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:36:51: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:36:51: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:36:51: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:36:51: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:36:51: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:36:51: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:36:51: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:36:51: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:36:51: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:38:00: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:38:00: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:38:00: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:38:00: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:38:00: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:38:20: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 15:38:20: sendTransaction error: sendTransaction error
+info: Log: 22-Oct-2024 15:45:56: Server is running on http://localhost: 3000
+info: Log: 22-Oct-2024 15:45:59: uri:
+error: Log: 22-Oct-2024 15:55:37: Error connecting to database: Instance Failed to start with "DBException in initAndListen". Original Error:
+DBPathInUse: Unable to lock the lock file: ./src/dbData/mongod.lock (Resource temporarily unavailable). Another mongod instance is already running on the ./src/dbData directory
+info: Log: 22-Oct-2024 15:56:18: Server is running on http://localhost: 3000
+info: Log: 22-Oct-2024 15:56:19: uri:
+error: Log: 22-Oct-2024 15:59:21: Error connecting to database: Instance Failed to start with "DBException in initAndListen". Original Error:
+DBPathInUse: Unable to lock the lock file: ./src/dbData/mongod.lock (Resource temporarily unavailable). Another mongod instance is already running on the ./src/dbData directory
+error: Log: 22-Oct-2024 15:59:21: Error connecting to database: Instance Failed to start with "DBException in initAndListen". Original Error:
+DBPathInUse: Unable to lock the lock file: ./src/dbData/mongod.lock (Resource temporarily unavailable). Another mongod instance is already running on the ./src/dbData directory
+error: Log: 22-Oct-2024 15:59:21: Error connecting to database: Instance Failed to start with "DBException in initAndListen". Original Error:
+DBPathInUse: Unable to lock the lock file: ./src/dbData/mongod.lock (Resource temporarily unavailable). Another mongod instance is already running on the ./src/dbData directory
+info: Log: 22-Oct-2024 15:59:22: uri:
+info: Log: 22-Oct-2024 15:59:52: Server is running on http://localhost: 3000
+info: Log: 22-Oct-2024 15:59:55: uri:
+error: Log: 22-Oct-2024 16:01:35: Error connecting to database: Instance Failed to start with "DBException in initAndListen". Original Error:
+DBPathInUse: Unable to lock the lock file: ./src/dbData/mongod.lock (Resource temporarily unavailable). Another mongod instance is already running on the ./src/dbData directory
+error: Log: 22-Oct-2024 16:01:35: Error connecting to database: Instance Failed to start with "DBException in initAndListen". Original Error:
+DBPathInUse: Unable to lock the lock file: ./src/dbData/mongod.lock (Resource temporarily unavailable). Another mongod instance is already running on the ./src/dbData directory
+error: Log: 22-Oct-2024 16:07:07: Error connecting to database: Instance Failed to start with "DBException in initAndListen". Original Error:
+DBPathInUse: Unable to lock the lock file: ./src/dbData/mongod.lock (Resource temporarily unavailable). Another mongod instance is already running on the ./src/dbData directory
+error: Log: 22-Oct-2024 16:07:07: Error connecting to database: Instance Failed to start with "DBException in initAndListen". Original Error:
+DBPathInUse: Unable to lock the lock file: ./src/dbData/mongod.lock (Resource temporarily unavailable). Another mongod instance is already running on the ./src/dbData directory
+error: Log: 22-Oct-2024 16:07:07: Error connecting to database: Instance Failed to start with "DBException in initAndListen". Original Error:
+DBPathInUse: Unable to lock the lock file: ./src/dbData/mongod.lock (Resource temporarily unavailable). Another mongod instance is already running on the ./src/dbData directory
+info: Log: 22-Oct-2024 16:07:08: uri:
+error: Log: 22-Oct-2024 16:07:08: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 16:07:08: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 16:07:08: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 16:07:08: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 16:07:08: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 16:07:08: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 16:07:09: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 16:07:09: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 16:07:09: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 16:07:09: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 16:07:09: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 16:07:09: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 16:07:09: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 16:07:09: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 16:07:09: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 16:07:09: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 16:07:09: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 16:07:09: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 16:07:09: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 16:07:09: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 16:07:09: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 16:07:09: sendTransaction error: sendTransaction error
+error: Log: 22-Oct-2024 16:08:59: Error connecting to database: Instance Failed to start with "DBException in initAndListen". Original Error:
+DBPathInUse: Unable to lock the lock file: ./src/dbData/mongod.lock (Resource temporarily unavailable). Another mongod instance is already running on the ./src/dbData directory
+error: Log: 22-Oct-2024 16:08:59: Error connecting to database: Instance closed unexpectedly with code "100" and signal "null"
+info: Log: 22-Oct-2024 16:09:00: uri:
+error: Log: 22-Oct-2024 16:10:24: Error connecting to database: Instance Failed to start with "DBException in initAndListen". Original Error:
+DBPathInUse: Unable to lock the lock file: ./src/dbData/mongod.lock (Resource temporarily unavailable). Another mongod instance is already running on the ./src/dbData directory
+error: Log: 22-Oct-2024 16:10:24: Error connecting to database: Instance Failed to start with "DBException in initAndListen". Original Error:
+DBPathInUse: Unable to lock the lock file: ./src/dbData/mongod.lock (Resource temporarily unavailable). Another mongod instance is already running on the ./src/dbData directory
+info: Log: 22-Oct-2024 16:10:25: uri:
+error: Log: 22-Oct-2024 16:11:27: Error connecting to database: Instance Failed to start with "DBException in initAndListen". Original Error:
+DBPathInUse: Unable to lock the lock file: ./src/dbData/mongod.lock (Resource temporarily unavailable). Another mongod instance is already running on the ./src/dbData directory
+error: Log: 22-Oct-2024 16:11:27: Error connecting to database: Instance Failed to start with "DBException in initAndListen". Original Error:
+DBPathInUse: Unable to lock the lock file: ./src/dbData/mongod.lock (Resource temporarily unavailable). Another mongod instance is already running on the ./src/dbData directory
+error: Log: 22-Oct-2024 16:11:27: Error connecting to database: Instance closed unexpectedly with code "100" and signal "null"
+info: Log: 22-Oct-2024 16:11:52: Server is running on http://localhost: 3000
+error: Log: 22-Oct-2024 16:11:54: Error connecting to database: Mongod internal error (fassert() failure\n\n"})
+info: Log: 22-Oct-2024 16:12:22: Server is running on http://localhost: 3000
+info: Log: 22-Oct-2024 16:12:24: uri:
+error: Log: 22-Oct-2024 16:20:27: Error connecting to database: Instance Failed to start with "DBException in initAndListen". Original Error:
+DBPathInUse: Unable to lock the lock file: ./src/dbData/mongod.lock (Resource temporarily unavailable). Another mongod instance is already running on the ./src/dbData directory
+error: Log: 22-Oct-2024 16:20:27: Error connecting to database: Instance closed unexpectedly with code "100" and signal "null"
+error: Log: 22-Oct-2024 16:20:27: Error connecting to database: Instance closed unexpectedly with code "100" and signal "null"
+info: Log: 22-Oct-2024 16:20:28: uri:
+error: Log: 22-Oct-2024 16:27:38: Error connecting to database: Instance Failed to start with "DBException in initAndListen". Original Error:
+DBPathInUse: Unable to lock the lock file: ./src/dbData/mongod.lock (Resource temporarily unavailable). Another mongod instance is already running on the ./src/dbData directory
+error: Log: 22-Oct-2024 16:27:38: Error connecting to database: Instance Failed to start with "DBException in initAndListen". Original Error:
+DBPathInUse: Unable to lock the lock file: ./src/dbData/mongod.lock (Resource temporarily unavailable). Another mongod instance is already running on the ./src/dbData directory
+info: Log: 22-Oct-2024 16:27:40: uri:
+error: Log: 22-Oct-2024 16:27:41: Mock sendTransaction error: Mock sendTransaction error
+info: Log: 22-Oct-2024 16:27:41: uri:
+error: Log: 22-Oct-2024 16:27:41: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 16:27:41: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 16:27:41: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 16:27:41: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 16:27:41: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 16:27:41: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 16:27:41: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 16:27:41: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 16:27:41: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 16:27:42: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 16:27:42: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 16:27:42: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 16:27:42: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 16:27:42: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 16:27:42: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 16:27:42: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 16:27:42: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 16:27:42: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:04:57: Error connecting to database: Instance Failed to start with "DBException in initAndListen". Original Error:
+DBPathInUse: Unable to lock the lock file: ./src/dbData/mongod.lock (Resource temporarily unavailable). Another mongod instance is already running on the ./src/dbData directory
+info: Log: 22-Oct-2024 17:04:59: uri:
+info: Log: 22-Oct-2024 17:04:59: uri:
+error: Log: 22-Oct-2024 17:04:59: Error connecting to database: Can't call `openUri()` on an active connection with different connection strings. Make sure you aren't calling `mongoose.connect()` multiple times. See: https://mongoosejs.com/docs/connections.html#multiple_connections
+error: Log: 22-Oct-2024 17:04:59: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:04:59: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:04:59: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:04:59: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:04:59: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:04:59: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:04:59: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:04:59: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:04:59: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:04:59: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:04:59: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:04:59: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:04:59: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:04:59: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:04:59: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:04:59: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:04:59: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:04:59: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:04:59: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:04:59: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:04:59: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:04:59: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:04:59: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:04:59: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:04:59: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:04:59: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:04:59: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:04:59: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:04:59: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:04:59: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:04:59: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:07:21: Error connecting to database: ENOENT: no such file or directory, scandir './src/testDbData'
+error: Log: 22-Oct-2024 17:07:23: Error connecting to database: Instance Failed to start with "DBException in initAndListen". Original Error:
+DBPathInUse: Unable to lock the lock file: ./src/dbData/mongod.lock (Resource temporarily unavailable). Another mongod instance is already running on the ./src/dbData directory
+error: Log: 22-Oct-2024 17:07:23: Error connecting to database: Instance Failed to start with "DBException in initAndListen". Original Error:
+DBPathInUse: Unable to lock the lock file: ./src/dbData/mongod.lock (Resource temporarily unavailable). Another mongod instance is already running on the ./src/dbData directory
+info: Log: 22-Oct-2024 17:07:24: uri:
+error: Log: 22-Oct-2024 17:07:59: Error connecting to database: Instance Failed to start with "DBException in initAndListen". Original Error:
+DBPathInUse: Unable to lock the lock file: ./src/dbData/mongod.lock (Resource temporarily unavailable). Another mongod instance is already running on the ./src/dbData directory
+error: Log: 22-Oct-2024 17:07:59: Error connecting to database: Instance closed unexpectedly with code "100" and signal "null"
+info: Log: 22-Oct-2024 17:08:00: uri:
+info: Log: 22-Oct-2024 17:08:00: uri:
+error: Log: 22-Oct-2024 17:08:01: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:01: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:01: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:01: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:01: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:01: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:01: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:01: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:01: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:01: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:01: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:01: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:01: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:01: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:01: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:01: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:01: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:01: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:01: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:01: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:01: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:01: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:01: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:01: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:01: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:01: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:01: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:01: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:36: Error connecting to database: Instance Failed to start with "DBException in initAndListen". Original Error:
+DBPathInUse: Unable to lock the lock file: ./src/dbData/mongod.lock (Resource temporarily unavailable). Another mongod instance is already running on the ./src/dbData directory
+error: Log: 22-Oct-2024 17:08:36: Error connecting to database: Instance Failed to start with "DBException in initAndListen". Original Error:
+DBPathInUse: Unable to lock the lock file: ./src/dbData/mongod.lock (Resource temporarily unavailable). Another mongod instance is already running on the ./src/dbData directory
+info: Log: 22-Oct-2024 17:08:38: uri:
+info: Log: 22-Oct-2024 17:08:38: uri:
+error: Log: 22-Oct-2024 17:08:39: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:39: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:39: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:39: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:39: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:39: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:39: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:39: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:39: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:39: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:39: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:39: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:39: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:39: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:39: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:39: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:39: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:39: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:39: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:39: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:39: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:39: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:39: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:39: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:08:39: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:10:53: Error connecting to database: Instance Failed to start with "DBException in initAndListen". Original Error:
+DBPathInUse: Unable to lock the lock file: ./src/dbData/mongod.lock (Resource temporarily unavailable). Another mongod instance is already running on the ./src/dbData directory
+error: Log: 22-Oct-2024 17:10:53: Error connecting to database: Instance Failed to start with "DBException in initAndListen". Original Error:
+DBPathInUse: Unable to lock the lock file: ./src/dbData/mongod.lock (Resource temporarily unavailable). Another mongod instance is already running on the ./src/dbData directory
+info: Log: 22-Oct-2024 17:10:54: uri:
+info: Log: 22-Oct-2024 17:10:55: uri:
+error: Log: 22-Oct-2024 17:10:55: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:10:55: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:10:55: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:10:55: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:10:55: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:10:55: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:10:55: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:10:55: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:10:55: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:10:55: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:10:55: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:10:55: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:10:55: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:10:55: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:10:55: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:10:55: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:10:55: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:10:55: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:10:56: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:10:56: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:10:56: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:11:20: Error connecting to database: Instance Failed to start with "DBException in initAndListen". Original Error:
+DBPathInUse: Unable to lock the lock file: ./src/dbData/mongod.lock (Resource temporarily unavailable). Another mongod instance is already running on the ./src/dbData directory
+error: Log: 22-Oct-2024 17:11:20: Error connecting to database: Instance Failed to start with "DBException in initAndListen". Original Error:
+DBPathInUse: Unable to lock the lock file: ./src/dbData/mongod.lock (Resource temporarily unavailable). Another mongod instance is already running on the ./src/dbData directory
+info: Log: 22-Oct-2024 17:11:22: uri:
+info: Log: 22-Oct-2024 17:11:22: uri:
+error: Log: 22-Oct-2024 17:11:22: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:11:22: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:11:22: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:11:22: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:11:22: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:11:22: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:11:22: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:11:22: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:11:22: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:11:22: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:11:22: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:11:22: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:11:22: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:11:22: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:11:22: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:11:22: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:11:22: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:11:22: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:11:22: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:11:22: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:11:22: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:11:22: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:11:22: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:11:22: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:11:23: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:11:23: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:11:23: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:11:23: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:11:23: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:11:23: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:11:23: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:13:41: Error connecting to database: Instance closed unexpectedly with code "100" and signal "null"
+error: Log: 22-Oct-2024 17:13:41: Error connecting to database: Instance Failed to start with "DBException in initAndListen". Original Error:
+DBPathInUse: Unable to lock the lock file: ./src/dbData/mongod.lock (Resource temporarily unavailable). Another mongod instance is already running on the ./src/dbData directory
+info: Log: 22-Oct-2024 17:13:42: uri:
+info: Log: 22-Oct-2024 17:13:42: uri:
+error: Log: 22-Oct-2024 17:13:43: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:13:43: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:13:43: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:13:43: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:13:43: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:13:43: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:13:43: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:13:43: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:13:43: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:13:43: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:13:43: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:13:43: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:13:43: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:13:43: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:13:43: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:13:43: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:13:43: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:13:43: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:13:43: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:14:49: Error connecting to database: Instance Failed to start with "DBException in initAndListen". Original Error:
+DBPathInUse: Unable to lock the lock file: ./src/dbData/mongod.lock (Resource temporarily unavailable). Another mongod instance is already running on the ./src/dbData directory
+info: Log: 22-Oct-2024 17:14:50: uri:
+info: Log: 22-Oct-2024 17:14:50: uri:
+error: Log: 22-Oct-2024 17:14:51: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:14:51: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:14:51: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:14:51: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:14:51: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:14:51: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:14:51: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:14:51: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:14:51: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:14:51: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:14:51: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:14:51: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:14:51: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:14:51: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:14:51: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:14:51: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:16:49: Error connecting to database: Instance Failed to start with "DBException in initAndListen". Original Error:
+DBPathInUse: Unable to lock the lock file: ./src/dbData/mongod.lock (Resource temporarily unavailable). Another mongod instance is already running on the ./src/dbData directory
+error: Log: 22-Oct-2024 17:16:50: Error connecting to database: Instance Failed to start with "DBException in initAndListen". Original Error:
+DBPathInUse: Unable to lock the lock file: ./src/dbData/mongod.lock (Resource temporarily unavailable). Another mongod instance is already running on the ./src/dbData directory
+info: Log: 22-Oct-2024 17:16:51: uri:
+error: Log: 22-Oct-2024 17:16:51: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:16:52: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:16:52: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:16:52: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:16:52: Mock sendTransaction error: Mock sendTransaction error
+info: Log: 22-Oct-2024 17:16:52: uri:
+error: Log: 22-Oct-2024 17:16:52: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:16:52: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:16:52: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:16:52: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:16:52: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:16:52: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:16:52: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:16:52: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:16:52: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:16:52: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:16:52: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:16:52: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:16:52: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:16:52: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:17:39: Error connecting to database: ENOENT: no such file or directory, scandir './src/dbData'
+error: Log: 22-Oct-2024 17:17:39: Error connecting to database: ENOENT: no such file or directory, scandir './src/dbData'
+error: Log: 22-Oct-2024 17:17:39: Error connecting to database: ENOENT: no such file or directory, scandir './src/dbData'
+info: Log: 22-Oct-2024 17:17:41: uri:
+error: Log: 22-Oct-2024 17:17:41: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:17:41: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:17:41: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:17:41: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:17:41: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:17:41: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:17:41: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:17:41: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:17:41: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:17:41: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:17:41: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:17:41: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:17:41: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:17:41: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:17:41: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:17:42: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:17:42: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:17:42: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:17:42: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:17:42: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:17:42: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:17:42: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:17:42: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:17:42: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:18:14: Error connecting to database: ENOENT: no such file or directory, scandir './src/dbData'
+error: Log: 22-Oct-2024 17:18:14: Error connecting to database: ENOENT: no such file or directory, scandir './src/dbData'
+error: Log: 22-Oct-2024 17:18:14: Error connecting to database: ENOENT: no such file or directory, scandir './src/dbData'
+info: Log: 22-Oct-2024 17:18:16: uri:
+error: Log: 22-Oct-2024 17:18:17: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:18:17: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:18:17: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:18:17: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:18:17: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:18:17: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:18:17: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:18:17: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:18:17: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:18:17: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:18:17: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:18:17: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:18:17: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:18:17: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:18:17: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:18:17: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:18:17: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:18:17: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:18:17: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:18:17: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:18:17: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:19:45: Error connecting to database: ENOENT: no such file or directory, scandir './src/dbData'
+error: Log: 22-Oct-2024 17:19:45: Error connecting to database: ENOENT: no such file or directory, scandir './src/dbData'
+error: Log: 22-Oct-2024 17:19:45: Error connecting to database: ENOENT: no such file or directory, scandir './src/dbData'
+info: Log: 22-Oct-2024 17:19:47: uri:
+error: Log: 22-Oct-2024 17:19:47: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:19:47: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:19:47: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:19:47: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:19:47: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:19:47: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:19:47: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:19:47: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:19:47: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:19:47: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:19:47: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:19:47: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:19:47: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:19:47: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:19:47: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:19:47: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:19:47: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:19:47: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:20:21: Error connecting to database: ENOENT: no such file or directory, scandir './src/dbData'
+error: Log: 22-Oct-2024 17:20:21: Error connecting to database: ENOENT: no such file or directory, scandir './src/dbData'
+error: Log: 22-Oct-2024 17:20:22: Error connecting to database: ENOENT: no such file or directory, scandir './src/dbData'
+info: Log: 22-Oct-2024 17:20:23: uri:
+error: Log: 22-Oct-2024 17:20:24: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:20:24: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:20:24: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:20:24: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:20:24: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:20:24: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:20:24: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:20:24: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:20:24: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:20:24: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:20:24: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:20:24: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:20:24: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:20:24: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:20:24: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:20:24: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:20:24: Mock sendTransaction error: Mock sendTransaction error
+info: Log: 22-Oct-2024 17:21:35: Server is running on http://localhost: 3000
+info: Log: 22-Oct-2024 17:21:36: uri:
+info: Log: 22-Oct-2024 17:21:58: uri:
+info: Log: 22-Oct-2024 17:21:58: uri:
+info: Log: 22-Oct-2024 17:21:58: uri:
+info: Log: 22-Oct-2024 17:21:58: uri:
+error: Log: 22-Oct-2024 17:21:58: Error connecting to database: Can't call `openUri()` on an active connection with different connection strings. Make sure you aren't calling `mongoose.connect()` multiple times. See: https://mongoosejs.com/docs/connections.html#multiple_connections
+error: Log: 22-Oct-2024 17:22:00: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:22:00: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:22:00: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:22:00: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:22:00: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:22:00: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:22:00: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:22:00: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:22:00: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:22:00: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:22:00: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:22:00: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:22:00: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:22:00: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:22:00: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:22:00: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:22:00: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:22:00: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:22:00: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:22:00: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:22:00: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:22:00: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:22:00: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:22:00: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:22:00: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:22:00: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:22:00: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:22:00: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:22:00: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:22:00: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:22:00: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:22:00: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:22:00: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:22:00: Mock sendTransaction error: Mock sendTransaction error
+info: Log: 22-Oct-2024 17:23:25: uri:
+info: Log: 22-Oct-2024 17:23:25: uri:
+error: Log: 22-Oct-2024 17:23:25: Error connecting to database: Can't call `openUri()` on an active connection with different connection strings. Make sure you aren't calling `mongoose.connect()` multiple times. See: https://mongoosejs.com/docs/connections.html#multiple_connections
+info: Log: 22-Oct-2024 17:23:25: uri:
+info: Log: 22-Oct-2024 17:23:25: uri:
+error: Log: 22-Oct-2024 17:23:26: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:23:26: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:23:26: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:23:26: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:23:26: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:23:26: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:23:26: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:23:26: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:23:26: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:23:26: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:23:26: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:23:26: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:23:26: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:23:26: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:23:26: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:23:26: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:23:26: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:23:26: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:23:26: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:23:26: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:23:26: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:23:26: Mock sendTransaction error: Mock sendTransaction error
+info: Log: 22-Oct-2024 17:24:30: uri:
+info: Log: 22-Oct-2024 17:24:30: uri:
+info: Log: 22-Oct-2024 17:24:30: uri:
+info: Log: 22-Oct-2024 17:24:30: uri:
+error: Log: 22-Oct-2024 17:24:30: Error connecting to database: Can't call `openUri()` on an active connection with different connection strings. Make sure you aren't calling `mongoose.connect()` multiple times. See: https://mongoosejs.com/docs/connections.html#multiple_connections
+error: Log: 22-Oct-2024 17:24:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:24:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:24:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:24:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:24:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:24:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:24:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:24:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:24:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:24:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:24:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:24:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:24:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:24:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:24:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:24:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:24:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:24:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:24:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:24:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:24:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:24:31: Mock sendTransaction error: Mock sendTransaction error
+info: Log: 22-Oct-2024 17:27:17: uri:
+info: Log: 22-Oct-2024 17:27:17: uri:
+info: Log: 22-Oct-2024 17:27:17: uri:
+info: Log: 22-Oct-2024 17:27:17: uri:
+error: Log: 22-Oct-2024 17:27:17: Error connecting to database: Can't call `openUri()` on an active connection with different connection strings. Make sure you aren't calling `mongoose.connect()` multiple times. See: https://mongoosejs.com/docs/connections.html#multiple_connections
+error: Log: 22-Oct-2024 17:27:17: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:27:19: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:27:19: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:27:19: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:27:19: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:27:19: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:27:19: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:27:19: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:27:19: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:27:19: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:27:19: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:27:19: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:27:19: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:27:19: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:27:19: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:27:19: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:27:19: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:27:19: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:27:19: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:27:19: Mock sendTransaction error: Mock sendTransaction error
+info: Log: 22-Oct-2024 17:29:00: uri:
+info: Log: 22-Oct-2024 17:29:00: uri:
+info: Log: 22-Oct-2024 17:29:00: uri:
+info: Log: 22-Oct-2024 17:29:00: uri:
+error: Log: 22-Oct-2024 17:29:00: Error connecting to database: Can't call `openUri()` on an active connection with different connection strings. Make sure you aren't calling `mongoose.connect()` multiple times. See: https://mongoosejs.com/docs/connections.html#multiple_connections
+error: Log: 22-Oct-2024 17:29:00: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:29:02: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:29:02: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:29:02: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:29:02: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:29:02: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:29:02: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:29:02: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:29:02: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:29:02: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:29:02: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:29:02: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:29:02: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:29:02: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:29:02: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:29:02: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:29:02: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:29:02: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:29:02: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:29:02: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:29:02: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:29:02: Mock sendTransaction error: Mock sendTransaction error
+info: Log: 22-Oct-2024 17:31:59: Server is running on http://localhost: 3000
+info: Log: 22-Oct-2024 17:32:02: uri:
+info: Log: 22-Oct-2024 17:32:37: Server is running on http://localhost: 3000
+info: Log: 22-Oct-2024 17:32:39: uri:
+info: Log: 22-Oct-2024 17:33:33: Server is running on http://localhost: 3000
+info: Log: 22-Oct-2024 17:33:35: uri:
+info: Log: 22-Oct-2024 17:34:03: Server is running on http://localhost: 3000
+info: Log: 22-Oct-2024 17:34:05: uri:
+info: Log: 22-Oct-2024 17:34:43: uri:
+info: Log: 22-Oct-2024 17:34:43: uri:
+error: Log: 22-Oct-2024 17:34:43: Error connecting to database: Can't call `openUri()` on an active connection with different connection strings. Make sure you aren't calling `mongoose.connect()` multiple times. See: https://mongoosejs.com/docs/connections.html#multiple_connections
+info: Log: 22-Oct-2024 17:34:43: uri:
+info: Log: 22-Oct-2024 17:34:44: uri:
+error: Log: 22-Oct-2024 17:34:45: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:34:45: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:34:45: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:34:45: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:34:45: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:34:45: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:34:45: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:34:45: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:34:45: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:34:45: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:34:45: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:34:45: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:34:45: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:34:45: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:34:45: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:34:45: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:34:45: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:34:45: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:34:45: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:34:45: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:34:45: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:34:45: Mock sendTransaction error: Mock sendTransaction error
+info: Log: 22-Oct-2024 17:35:29: uri:
+info: Log: 22-Oct-2024 17:35:30: uri:
+info: Log: 22-Oct-2024 17:35:30: uri:
+info: Log: 22-Oct-2024 17:35:30: uri:
+error: Log: 22-Oct-2024 17:35:30: Error connecting to database: Can't call `openUri()` on an active connection with different connection strings. Make sure you aren't calling `mongoose.connect()` multiple times. See: https://mongoosejs.com/docs/connections.html#multiple_connections
+error: Log: 22-Oct-2024 17:35:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:35:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:35:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:35:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:35:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:35:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:35:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:35:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:35:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:35:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:35:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:35:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:35:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:35:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:35:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:35:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:35:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:35:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:35:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:35:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:35:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:35:31: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:35:31: Mock sendTransaction error: Mock sendTransaction error
+info: Log: 22-Oct-2024 17:38:14: uri:
+info: Log: 22-Oct-2024 17:38:14: uri:
+info: Log: 22-Oct-2024 17:38:14: uri:
+info: Log: 22-Oct-2024 17:38:14: uri:
+error: Log: 22-Oct-2024 17:38:14: Error connecting to database: Can't call `openUri()` on an active connection with different connection strings. Make sure you aren't calling `mongoose.connect()` multiple times. See: https://mongoosejs.com/docs/connections.html#multiple_connections
+info: Log: 22-Oct-2024 17:38:32: uri:
+info: Log: 22-Oct-2024 17:38:32: uri:
+error: Log: 22-Oct-2024 17:38:32: Error connecting to database: Can't call `openUri()` on an active connection with different connection strings. Make sure you aren't calling `mongoose.connect()` multiple times. See: https://mongoosejs.com/docs/connections.html#multiple_connections
+error: Log: 22-Oct-2024 17:38:32: Mock sendTransaction error: Mock sendTransaction error
+info: Log: 22-Oct-2024 17:38:32: uri:
+info: Log: 22-Oct-2024 17:38:32: uri:
+error: Log: 22-Oct-2024 17:38:33: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:38:33: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:38:33: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:38:33: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:38:34: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:38:34: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:38:34: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:38:34: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:38:34: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:38:34: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:38:34: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:38:34: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:38:34: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:38:34: Mock sendTransaction error: Mock sendTransaction error
+info: Log: 22-Oct-2024 17:39:07: uri:
+info: Log: 22-Oct-2024 17:39:07: uri:
+info: Log: 22-Oct-2024 17:39:08: uri:
+info: Log: 22-Oct-2024 17:39:08: uri:
+error: Log: 22-Oct-2024 17:39:08: Error connecting to database: Can't call `openUri()` on an active connection with different connection strings. Make sure you aren't calling `mongoose.connect()` multiple times. See: https://mongoosejs.com/docs/connections.html#multiple_connections
+error: Log: 22-Oct-2024 17:39:09: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:09: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:09: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:09: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:09: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:09: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:09: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:09: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:09: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:09: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:09: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:09: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:09: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:09: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:09: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:09: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:09: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:09: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:09: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:09: Mock sendTransaction error: Mock sendTransaction error
+info: Log: 22-Oct-2024 17:39:35: uri:
+info: Log: 22-Oct-2024 17:39:35: uri:
+error: Log: 22-Oct-2024 17:39:35: Error connecting to database: Can't call `openUri()` on an active connection with different connection strings. Make sure you aren't calling `mongoose.connect()` multiple times. See: https://mongoosejs.com/docs/connections.html#multiple_connections
+info: Log: 22-Oct-2024 17:39:35: uri:
+info: Log: 22-Oct-2024 17:39:35: uri:
+error: Log: 22-Oct-2024 17:39:37: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:37: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:37: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:37: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:37: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:37: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:37: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:37: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:37: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:37: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:37: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:37: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:37: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:37: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:37: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:37: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:37: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:37: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:37: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:37: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:37: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:37: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:37: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:37: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:37: Mock sendTransaction error: Mock sendTransaction error
+info: Log: 22-Oct-2024 17:39:52: uri:
+info: Log: 22-Oct-2024 17:39:52: uri:
+error: Log: 22-Oct-2024 17:39:52: Error connecting to database: Can't call `openUri()` on an active connection with different connection strings. Make sure you aren't calling `mongoose.connect()` multiple times. See: https://mongoosejs.com/docs/connections.html#multiple_connections
+info: Log: 22-Oct-2024 17:39:52: uri:
+info: Log: 22-Oct-2024 17:39:52: uri:
+error: Log: 22-Oct-2024 17:39:54: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:54: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:54: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:54: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:54: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:54: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:54: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:54: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:54: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:54: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:54: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:54: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:54: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:54: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:54: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 17:39:54: Mock sendTransaction error: Mock sendTransaction error
+info: Log: 22-Oct-2024 17:46:32: Server is running on http://localhost: 3000
+info: Log: 22-Oct-2024 17:46:34: uri:
+info: Log: 22-Oct-2024 20:13:09: uri:
+info: Log: 22-Oct-2024 20:13:09: uri:
+info: Log: 22-Oct-2024 20:13:09: uri:
+error: Log: 22-Oct-2024 20:13:09: Error connecting to database: Can't call `openUri()` on an active connection with different connection strings. Make sure you aren't calling `mongoose.connect()` multiple times. See: https://mongoosejs.com/docs/connections.html#multiple_connections
+info: Log: 22-Oct-2024 20:13:09: uri:
+error: Log: 22-Oct-2024 20:13:11: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:13:11: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:13:11: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:13:11: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:13:11: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:13:11: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:13:11: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:13:11: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:13:11: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:13:11: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:13:11: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:13:11: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:13:11: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:13:11: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:13:11: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:13:11: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:13:11: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:13:11: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:13:11: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:13:11: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:13:11: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:13:11: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:13:11: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:13:11: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:13:11: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:13:11: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:13:11: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:13:11: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:13:11: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:13:11: Mock sendTransaction error: Mock sendTransaction error
+info: Log: 22-Oct-2024 20:14:37: uri:
+info: Log: 22-Oct-2024 20:14:37: uri:
+info: Log: 22-Oct-2024 20:14:37: uri:
+info: Log: 22-Oct-2024 20:14:37: uri:
+error: Log: 22-Oct-2024 20:14:37: Error connecting to database: Can't call `openUri()` on an active connection with different connection strings. Make sure you aren't calling `mongoose.connect()` multiple times. See: https://mongoosejs.com/docs/connections.html#multiple_connections
+error: Log: 22-Oct-2024 20:14:37: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:14:38: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:14:38: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:14:38: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:14:38: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:14:38: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:14:38: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:14:38: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:14:38: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:14:38: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:14:38: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:14:38: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:14:38: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:14:38: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:14:38: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:14:38: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:14:38: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:14:38: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:14:38: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:14:38: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:14:38: Mock sendTransaction error: Mock sendTransaction error
+error: Log: 22-Oct-2024 20:14:38: Mock sendTransaction error: Mock sendTransaction error

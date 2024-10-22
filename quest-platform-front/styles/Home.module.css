@@ -1,0 +1,26 @@
+.container {
+  padding: 20px;
+  text-align: center;
+}
+
+.nav {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.navLink {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #0070f3;
+  font-weight: bold;
+  transition: color 0.3s;
+}
+
+.navLink:hover {
+  color: #0056b3;
+}
+
+.main {
+  padding: 20px;
+}
